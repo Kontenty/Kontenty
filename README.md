@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Konrad - @Kontenty
-- ⌨ I'm front-end developer and UI designer
-- 🌱 I’m currently learning node and python backend
+- ⌨ I'm full-stack / front-end developer and UI designer
 - 💞️ I’m looking to collaborate on front-end rpojects
 - 📫 Reach me @ konradgrsk@gmail.com
 
