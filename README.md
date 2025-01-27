@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Konrad - @Kontenty
-- ⌨ I'm full-stack / front-end developer and UI designer
+- ⌨ I'm skilled  front-end / full-stack developer and UI designer
+- My stack: React, NextJs, Angular, NodeJs, graphql
 - 💞️ I’m looking to collaborate on front-end rpojects
 - 📫 Reach me @ konradgrsk@gmail.com
 
